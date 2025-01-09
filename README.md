@@ -1,9 +1,9 @@
 # sample
-大野けいた
+
+オオノケイタ
 ジングウ
 
-
-追加文字ABCDE
+追加文字 ABCDE
 
 git pull
 
@@ -15,4 +15,3 @@ git commit -m "コミット"
 git pull
 
 git push
-
