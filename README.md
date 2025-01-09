@@ -3,7 +3,7 @@
 ジングウ
 
 
-追加文字
+追加文字ABCDE
 
 git pull
 
